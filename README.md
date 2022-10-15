@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to collaborate on ... **VPNs, Docker and AI/ML Projects**
 
-- 📫 How to reach me **abirdey2011@gmail.com**
+- 📫 How to reach me **abir@ad2011.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
