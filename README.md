@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abir Dey</h1>
 <h3 align="center">A passionate upcoming Data Scientist from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ad2011&label=Profile%20views&color=0e75b6&style=flat" alt="ad2011" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ad2011" alt="ad2011" /></a> </p>
+
 - 🌱 I’m currently learning **Data Science, Python, R, TrueNAS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AD2011](https://github.com/AD2011)
