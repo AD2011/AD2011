@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abir Dey</h1>
 <h3 align="center">A passionate upcoming Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Data Science, Python, R, TrueNAS**
+- 🌱 I’m currently learning **Tableau, PoweBI, GenAI, R, TrueNAS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AD2011](https://github.com/AD2011)
 
-- 💬 Ask me about **Cloud Computing, Networking, DSA, OS**
+- 💬 Ask me about **Cloud Computing, Networking, DSA, OS, AI, Python, C, JAVA, Web Hosting**
 
-- 💞️ I’m looking to collaborate on ... **VPNs, Docker and AI/ML Projects**
+- 💞️ I’m looking to collaborate on ... **Networking, Docker and AI/ML Projects**
 
 - 📫 How to reach me **abirdey2011@ad2011.xyz**
 
