@@ -9,7 +9,7 @@
 
 - 💞️ I’m looking to collaborate on ... **Networking, Docker and AI/ML Projects**
 
-- 📫 How to reach me **abirdey2011@ad2011.xyz**
+- 📫 How to reach me **abirdey@abirdey.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
