@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abir Dey</h1>
 <h3 align="center">A passionate upcoming Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Tableau, PoweBI, GenAI, R, TrueNAS**
+- 🌱 I’m currently learning **Tableau, PowerBI, GenAI, R, TrueNAS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AD2011](https://github.com/AD2011)
 
