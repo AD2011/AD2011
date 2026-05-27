@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abir Dey</h1>
+<h1 align="center">Hi 👋, I'm Abir</h1>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AD2011](https://github.com/AD2011)
